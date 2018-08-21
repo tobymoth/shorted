@@ -1,0 +1,10 @@
+# Using ENV as virtualenv for development
+/ENV/
+
+# using vscode (though normally use emacs - but heyho)
+/.vscode/
+
+# ignore python cache directories
+.pytest_cache
+__pycache__
+.mypy_cache

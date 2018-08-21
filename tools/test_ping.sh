@@ -1,0 +1,2 @@
+curl -i -v \
+    http://localhost:5000/ping

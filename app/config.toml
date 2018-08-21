@@ -1,0 +1,7 @@
+[db]
+host = "postgres"
+db = "shorted"
+password = "shorted"
+user = "shorted"
+name = "shorted"
+port = 5432
